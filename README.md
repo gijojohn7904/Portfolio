@@ -7,6 +7,7 @@ Welcome to my Portfolio! This repository showcases my projects in data analytics
 
 
 Highlights ✨
+
 Warehouse Optimization 📦🔧: Enhancing operational efficiency.
 Inventory Management 📊📈: Streamlining processes with data insights.
 Technical Skills 💻📊: Excel, SQL, Power BI, Python.
